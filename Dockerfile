@@ -1,2 +1,2 @@
-FROM yandexdataschool/mlhep2017:0.1
+FROM yandexdataschool/mlhep2017:0.2
 MAINTAINER Andrey Ustyuzhanin
