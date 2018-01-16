@@ -1,0 +1,15 @@
+name: python3
+channels:
+  - conda-forge
+dependencies:
+  - numpy=1.12.*
+  - pandas=0.19.*
+  - scipy=0.19.*
+  - scikit-learn=0.18.*
+  - openmpi=2.1.1
+  - networkx
+  - libgcc
+  - pip:
+    - hyperopt==0.1
+    - pymongo==3.4.0
+    - RISE
